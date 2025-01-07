@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="cz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaše ordinace</title>
+</head>
+<body>
+    <h1>Tohle je nadpis</h1>
+    <h2>Tohle je druhy nadpis</h2>
+    <h3> ahoj ahoj</h3>
+<p>
+    Vážené dámy, vážení pánové, v souladu s ustanoveními § 103 odst. 2 a 3 zákona č.262/2006 Sb., zákoník
+    práce, v platném znění, a podle OS 112 Bezpečnost a ochrana zdraví při práci, máte povinnost absolvovat
+    všeobecné vzdělávání v oblasti bezpečnosti a ochrany zdraví při práci formou e-learningu a úroveň dosažených 
+    znalostí prokázat zpracováním testu.
+</p>
+
+<p>
+    JUDr. Mgr. Pavel Radovan Viglaský
+    Vedoucí Oddělení bezpečnosti práce a požární ochrany
+</p>
+
+</body>
+</html>

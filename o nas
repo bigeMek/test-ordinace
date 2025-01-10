@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O nás</title>
+</head>
+<body>
+    <h1>O nás</h1>
+    
+   
+    <p>
+        <strong>sestřičky Monika a Lenka<strong>   
+    </p>   
+
+    <p>
+    MUDr. Martin Blahuš
+    
+    
+    praktický dětský lékař a dětský plicní lékař
+    - dvě atestace v oboru dětské lékařství (pediatrie)
+    - dvě atestace v oboru plicní lékařství (pneumologie)
+     
+    Jsem dětský lékař /pediatr/ a dětský pneumolog zejména pro oblast Praha 4 Libuš, Písnice, Krč, Kunratice, Kamýk, Modřany, Pankrác a oblast Dolní Břežany, Vestec, Jesenice, Osnice, Zdiměřice, Průhonice, Šeberov, Hrnčíře, Psáry, Zvole.
+     
+    Po promoci na Fakultě dětského lékařství University Karlovy v Praze jsem do 1.atestace z pediatrie pracoval na dětském lůžkovém oddělení v Klatovech. Následně jsem se vrátil do Prahy a přijal místo na dětském lůžkovém oddělení Nemocnice Pod Petřínem. V roce 1996 jsem přešel na Dětskou kliniku Fakultní Thomayerovy nemocnice v Praze Krči, kde částečně pracuji dosud.
+     
+    Po složení 2.atestace z pediatrie jsem se zaměřil na plicní problematiku u dětí. Vedl jsem lůžkový úsek dětí s onemocněním plic včetně tuberkulosy. Následně jsem složil atestaci z dospělé i dětské pneumologie. Na dětské klinice nadále vedu odbornou ambulanci pro respirační nemoci a spirometrickou laboratoř. V roce 2013 jsem se rozhodl rázně otočit kormidlem svého profesního života a převzal jsem ambulanci praktického lékaře pro děti v Praze 4 Písnici.
+    </p>
+    
+    <a href="index.html">Zpět na hlavní stránku</a>
+</body>
+</html>

@@ -4,22 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vaše ordinace</title>
+    <style>
+        body {
+            color: rgb(0, 0, 0);
+            background: rgba(213, 214, 221, 0.459);
+            font-family: Helvetica, Arial, sans-serif;
+            
+        
+
+        }
+            
+    </style>    
+ <div class="navigation">
+    <a href="O nás.html">O nás</a>
+    <a href="kontakty.html">Kontakty</a>
+    <a href="otviraci-doba.html">Otvírací doba</a>       
 </head>
 <body>
-    <h1>Tohle je nadpis</h1>
-    <h2>Tohle je druhy nadpis</h2>
-    <h3> ahoj ahoj</h3>
-<p>
-    Vážené dámy, vážení pánové, v souladu s ustanoveními § 103 odst. 2 a 3 zákona č.262/2006 Sb., zákoník
-    práce, v platném znění, a podle OS 112 Bezpečnost a ochrana zdraví při práci, máte povinnost absolvovat
-    všeobecné vzdělávání v oblasti bezpečnosti a ochrany zdraví při práci formou e-learningu a úroveň dosažených 
-    znalostí prokázat zpracováním testu.
-</p>
+    <h1>MUDR. Martin Blahuš</h1>
+    
+    <h3> Praktický lékař pro dospělé</h3>
+    <h4>---------------------------------------------------------------------------------------------------------------------<h4>
+
 
 <p>
-    JUDr. Mgr. Pavel Radovan Viglaský
-    Vedoucí Oddělení bezpečnosti práce a požární ochrany
+    <strong>sestřičky Monika a Lenka<strong>
 </p>
+
+<!-- <p>
+MUDr. Jindřich Pohl
+
+
+praktický dětský lékař a dětský plicní lékař
+- dvě atestace v oboru dětské lékařství (pediatrie)
+- dvě atestace v oboru plicní lékařství (pneumologie)
+ 
+Jsem dětský lékař /pediatr/ a dětský pneumolog zejména pro oblast Praha 4 Libuš, Písnice, Krč, Kunratice, Kamýk, Modřany, Pankrác a oblast Dolní Břežany, Vestec, Jesenice, Osnice, Zdiměřice, Průhonice, Šeberov, Hrnčíře, Psáry, Zvole.
+ 
+Po promoci na Fakultě dětského lékařství University Karlovy v Praze jsem do 1.atestace z pediatrie pracoval na dětském lůžkovém oddělení v Klatovech. Následně jsem se vrátil do Prahy a přijal místo na dětském lůžkovém oddělení Nemocnice Pod Petřínem. V roce 1996 jsem přešel na Dětskou kliniku Fakultní Thomayerovy nemocnice v Praze Krči, kde částečně pracuji dosud.
+ 
+Po složení 2.atestace z pediatrie jsem se zaměřil na plicní problematiku u dětí. Vedl jsem lůžkový úsek dětí s onemocněním plic včetně tuberkulosy. Následně jsem složil atestaci z dospělé i dětské pneumologie. Na dětské klinice nadále vedu odbornou ambulanci pro respirační nemoci a spirometrickou laboratoř. V roce 2013 jsem se rozhodl rázně otočit kormidlem svého profesního života a převzal jsem ambulanci praktického lékaře pro děti v Praze 4 Písnici.
+</p> -->
+
+<img src="C:\Users\nitram\Pictures\ordinace-homepage.jpg" alt="obrázek plného měsíce" >
+
+</p>   
+
+
 
 </body>
 </html>
